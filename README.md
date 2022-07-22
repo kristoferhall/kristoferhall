@@ -1,4 +1,6 @@
-### Hi there 👋
+## Kristofer Hall
+
+I am a data scientist/analyst and the Information Manager for the Sevilleta Long Term Ecological Research Program based out of the University of New Mexico.
 
 <!--
 **kristoferhall/kristoferhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
